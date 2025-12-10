@@ -1,6 +1,6 @@
 <!-- Dark Theme Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ruthishkumar18/Ruthishkumar18/main/banner.png" alt="Ruthishkumar G Banner"/>
+  <img src="https://raw.githubusercontent.com/Ruthishkumar18/Ruthishkumar18/main/Professional Digital Banner Design.png" alt="Ruthishkumar G Banner"/>
 </p>
 
 <h1 align="center" style="color:#00e6e6;">Hi, I'm Ruthishkumar G 👋</h1>
