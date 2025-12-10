@@ -1,6 +1,6 @@
 <!-- Dark Theme Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/Professional Digital Banner Design.png" alt="Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/Professional Digital Banner Design.png" alt="Banner" width="80%" height="250px" />
 </p>
 
 
