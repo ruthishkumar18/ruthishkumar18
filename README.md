@@ -68,22 +68,6 @@ Intent-based chatbot with improvements and admin features.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthishkumar18" />
-</p>
-
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ruthishkumar18&show_icons=true" />
-</p>
-
-<p align="center">
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthishkumar18&layout=compact" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email:** ruthishkumar.2353045@srec.ac.in  
