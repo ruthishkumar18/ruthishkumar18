@@ -1,202 +1,298 @@
-# Hi 👋, I'm Ruthishkumar G
+# 👋 Hi, I'm Ruthishkumar G
 
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/Professional%20Digital%20Banner%20Design.png" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/Professional%20Digital%20Banner%20Design.png" alt="Banner" width="100%" />
 
 <h3 align="center">🚀 AI Engineer | Full Stack Developer | M.Tech CSE Student</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, and Full Stack Development.
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, and building intelligent full-stack applications that solve real-world problems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ruthishkumar18">
+    <img src="https://komarev.com/ghpvc/?username=ruthishkumar18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 About Me
 
-🎓 Pursuing **M.Tech Computer Science & Engineering (5-Year Integrated)** at **Sri Ramakrishna Engineering College, Coimbatore**
+🎓 **M.Tech Computer Science & Engineering (5-Year Integrated)**
+📍 Sri Ramakrishna Engineering College, Coimbatore
 
-📊 Current CGPA: **8.38 / 10**
+📊 **CGPA:** 8.38 / 10
 
-🤖 AI Ambassador - AI Vishwaguru Initiative, SREC
+🤖 **AI Ambassador** - AI Vishwaguru Initiative, SREC
 
-🏆 Executive Member - Association of Master's Tech CSE
+🏆 **Executive Member** - Association of Master's Tech CSE
 
-🔭 Currently working on:
+💡 Passionate about:
 
-* Computer Vision Applications
-* Generative AI & LLM Projects
-* Full Stack Web Applications
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Large Language Models (LLMs)
+* Full Stack Development
+
+🌱 Currently Exploring:
+
+* RAG Applications
+* AI Agents
+* Vision Transformers
+* LLM Fine-Tuning
 * Industrial AI Solutions
-
-🌱 Exploring:
-
-* RAG Systems
-* Large Language Models
-* Agentic AI
-* Advanced Deep Learning
 
 💼 Open to:
 
 * AI/ML Internships
-* Research Collaborations
-* Full Stack Development Opportunities
+* Research Opportunities
+* Full Stack Development Roles
+* Industry Collaborations
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+</p>
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning & Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-FF4088?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-4B8BBE?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-009688?style=for-the-badge)
-![GenerativeAI](https://img.shields.io/badge/Generative_AI-673AB7?style=for-the-badge)
+* TensorFlow
+* YOLOv11
+* CNN
+* ResNet
+* VGG16
+* Vision Transformer (ViT)
+* Random Forest
+* Computer Vision
+* Prompt Engineering
+* RAG
+* LLM Applications
+* Generative AI
 
-### 🌐 Web Development
+## 🌐 Web Development
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,firebase" />
+</p>
 
-### 🗄️ Databases
+* React.js
+* Flask
+* Streamlit
+* AngularJS
+* REST APIs
+* JWT Authentication
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+## 🗄️ Databases
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+</p>
 
-## 🚀 Featured Projects
+* MySQL
+* MongoDB
+* SQLite
+* Firebase
 
-### 🌿 PlantSpeakAI
+## 🛠️ Tools & Platforms
 
-AI-enabled plant electrophysiology monitoring system that captures bio-electrical signals using ESP32 and predicts plant stress conditions through machine learning.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
 
-**Tech Stack:** Python, ESP32, Neural Networks, Random Forest, Android Studio
-
----
-
-### ⚖️ JudifyAI
-
-An intelligent legal audio platform that summarizes court judgments using LLMs and converts them into natural speech.
-
-**Tech Stack:** React.js, Ollama (Mistral), Piper TTS, JWT, Web Scraping
-
----
-
-### 🔩 SteelDefectNet
-
-Deep Learning based steel surface defect detection system using YOLOv11, CNN, ResNet, VGG16 and Vision Transformer.
-
-**Tech Stack:** YOLOv11, Flask, Roboflow, Computer Vision
-
----
-
-### 🎯 O-Ring Detection System
-
-Industrial automation project developed during CIRCOR Industry Collaboration using Mask R-CNN for real-time O-Ring detection.
-
-**Tech Stack:** Python, Mask R-CNN, OpenCV
+* LM Studio
+* Roboflow
+* Google Colab
+* Jira
 
 ---
 
-### 📋 Internship Management Portal
+# 🚀 Featured Projects
 
-Full-stack web application for managing and tracking student internships within the institution.
+## 🌿 PlantSpeakAI
 
-**Tech Stack:** React.js, Node.js, Database Systems
+AI-enabled plant electrophysiology monitoring system that captures plant bio-electrical signals through ESP32 and predicts stress conditions using machine learning.
 
----
+### Technologies
 
-### 🏠 Online Leave Management System
-
-Leave request and approval workflow platform developed during a college hackathon.
-
-**Tech Stack:** Full Stack Web Development
+`ESP32` `Python` `Random Forest` `Neural Networks` `Android Studio`
 
 ---
 
-## 💼 Internship Experience
+## ⚖️ JudifyAI
 
-### AI/ML Intern | RGreen Technologies
+An intelligent legal platform that summarizes court judgments using LLMs and converts them into natural speech using Piper TTS.
 
-📍 Madurai, Tamil Nadu
+### Technologies
 
-* Developed AI chatbot solutions
+`React.js` `JWT` `Cheerio` `Ollama (Mistral)` `Piper TTS`
+
+---
+
+## 🔩 SteelDefectNet
+
+Deep learning based steel surface defect detection pipeline using YOLOv11, CNN, ResNet, VGG16 and Vision Transformer with Flask visualization.
+
+### Technologies
+
+`YOLOv11` `CNN` `ResNet` `VGG16` `ViT` `Flask` `Roboflow`
+
+---
+
+## 🎯 O-Ring Detection System (CIRCOR)
+
+Industrial computer vision project developed during CIRCOR collaboration for automated O-Ring detection using Mask R-CNN.
+
+### Technologies
+
+`Mask R-CNN` `Python` `Computer Vision`
+
+---
+
+## 📋 Internship Management Portal
+
+Full-stack web application developed for managing student internship workflows and tracking.
+
+### Technologies
+
+`React.js` `Node.js` `Database Systems`
+
+---
+
+## 🏠 Online Leave Management System
+
+Hackathon project developed for digital leave request and approval workflow management.
+
+### Technologies
+
+`Web Development` `Database Management`
+
+---
+
+# 💼 Internship Experience
+
+## 🤖 AI/ML Intern
+
+### RGreen Technologies | Madurai
+
+📅 June 2025
+
+* Developed chatbot systems with API integration
 * Integrated Machine Learning models
-* Built API-driven backend services
-
-### App Development Intern | Micro Infotech
-
-📍 Coimbatore, Tamil Nadu
-
-* Built Intelligent Quotation Management System
-* Developed UI and backend business logic
-* Implemented secure data handling
-
-### Web Development Intern | Infotact Solutions
-
-📍 Tamil Nadu
-
-* Developed artisan marketplace platform
-* Created product approval workflows
-* Built dashboard and user modules
+* Improved response workflows and backend services
 
 ---
 
-## 🏆 Achievements
+## 📱 App Development Intern
+
+### Micro Infotech | Coimbatore
+
+📅 December 2025
+
+* Built Intelligent Quotation Management Application
+* Implemented backend business logic
+* Developed secure data management features
+
+---
+
+## 🌐 Web Development Intern
+
+### Infotact Solutions
+
+📅 May 2025 – August 2025
+
+* Developed artisan product marketplace
+* Built admin management dashboard
+* Implemented product approval workflows
+
+---
+
+# 🏆 Achievements & Leadership
 
 🥇 AI Ambassador - AI Vishwaguru Initiative
 
-🥈 Executive Member - Association of Master's Tech CSE
+🏆 Executive Member - Association of Master's Tech CSE
 
 🥉 3rd Place - GitSetGo Contest
 
-🏅 Runner-Up - NiCHE Non-Technical Event
+🥈 Runner-Up - NiCHE Non-Technical Event
 
 🎯 Event Coordinator - Codeathon, UTSAVA 2026
 
 ---
 
-## 📜 Certifications
+# 🎓 Education
 
-* Python Foundation Certification - Infosys Springboard
-* Generative AI: Hands-on Approach - SREC
-* TCS iON Career Edge - Young Professional
-* MongoDB University Skill Badges
-* Privacy and Security in Online Social Media - NPTEL
+## 🎓 M.Tech Computer Science & Engineering
 
----
+Sri Ramakrishna Engineering College, Coimbatore
 
-## 📈 GitHub Analytics
+📅 2023 - Present
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthishkumar18&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruthishkumar18&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthishkumar18&layout=compact&theme=tokyonight" />
-</p>
+📊 CGPA: 8.38 / 10
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Higher Secondary School
+
+Government Higher Secondary School, Theni
+
+📅 2023
+
+📊 Percentage: 87%
+
+🏅 Class Rank: 1
+
+---
+
+## 📖 SSLC
+
+Government High School, Theni
+
+📅 2021
+
+State Board of Tamil Nadu
+
+---
+
+# 📜 Certifications
+
+✅ Python Foundation Certification - Infosys Springboard
+
+✅ Generative AI: Hands-on Approach - SREC
+
+✅ TCS iON Career Edge - Young Professional
+
+✅ MongoDB University Skill Badges & Certifications
+
+✅ Privacy and Security in Online Social Media - NPTEL
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ruthishkumar18&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthishkumar18&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthishkumar18&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/ruthishkumar18">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -212,14 +308,19 @@ Leave request and approval workflow platform developed during a college hackatho
 <a href="https://instagram.com/ruthi__sj_18">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-<h3 align="center">
-⭐ "Building Intelligent Solutions with AI, Machine Learning & Full Stack Development"
-</h3>
+<h2 align="center">
+🚀 Open to AI/ML Internships, Research Collaborations & Full Stack Development Opportunities
+</h2>
 
 <p align="center">
-Thanks for visiting my profile! 🚀
+⭐ Building the Future with AI, Machine Learning & Intelligent Applications
+</p>
+
+<p align="center">
+Thanks for visiting my GitHub Profile!
 </p>
