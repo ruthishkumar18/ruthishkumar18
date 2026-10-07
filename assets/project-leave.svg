@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 310" role="img" aria-label="Online Leave Management System">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#0f172a"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+<rect width="700" height="310" rx="26" fill="url(#b)"/>
+<g opacity=".12" stroke="#f59e0b"><path d="M0 255H700M0 210H700M0 165H700M0 120H700M0 75H700"/><path d="M60 0L0 310M180 0L120 310M300 0L240 310M420 0L360 310M540 0L480 310M660 0L600 310"/></g>
+<g transform="translate(30 38)" font-family="Arial,Helvetica,sans-serif"><text fill="#fbbf24" font-size="12" font-weight="700" letter-spacing="3">HACKATHON PROJECT</text><text y="34" fill="#fff" font-size="22" font-weight="800">ONLINE LEAVE MANAGEMENT</text><text y="61" fill="#94a3b8" font-size="12">Request • Review • Approval Workflow</text></g>
+<g transform="translate(485 150)">
+<polygon points="0,-78 82,-37 82,48 0,90 -82,48 -82,-37" fill="#0b1220" stroke="#f59e0b" stroke-width="3"/>
+<polygon points="0,-60 58,-31 58,29 0,58 -58,29 -58,-31" fill="#111827" stroke="#fbbf24" stroke-width="2"/>
+<path d="M-34-6H34M-34 11H20M-34 28H8" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/>
+<path d="M-52-42L0-68L52-42" fill="none" stroke="#f59e0b" stroke-width="3"/>
+<circle cx="58" cy="-31" r="6" fill="#22c55e"><animate attributeName="r" values="4;9;4" dur="1.7s" repeatCount="indefinite"/></circle>
+<animateTransform attributeName="transform" type="rotate" values="0;8;0;-8;0" dur="5s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(34 112)" font-family="monospace"><rect width="285" height="112" rx="16" fill="#0b1220" stroke="#92400e"/><text x="18" y="24" fill="#64748b" font-size="10">APPROVAL FLOW</text><text x="18" y="47" fill="#fbbf24" font-size="12">EMPLOYEE → REQUEST</text><text x="18" y="67" fill="#67e8f9" font-size="12">SUPERVISOR → REVIEW</text><text x="18" y="87" fill="#a78bfa" font-size="12">ADMIN → APPROVE</text><text x="18" y="103" fill="#94a3b8" font-size="10">WEB WORKFLOW</text></g>
+<circle cx="620" cy="72" r="5" fill="#fbbf24"><animate attributeName="cy" values="72;50;72" dur="2.3s" repeatCount="indefinite"/></circle>
+</svg>
