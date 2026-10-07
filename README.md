@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://ruthishkumar.vercel.app">
-  <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/hero-portfolio.svg" width="100%" alt="Ruthishkumar G portfolio hero">
-</a>
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/hero-portfolio.svg" width="100%" alt="Ruthishkumar G portfolio hero">
 
 <br><br>
 
@@ -12,7 +10,7 @@
 &nbsp;·&nbsp;
 <a href="https://ruthishkumar.vercel.app">Portfolio</a>
 &nbsp;·&nbsp;
-<a href="mailto:ruthishkumar.rk@gmail.com">ruthishkumar.rk@gmail.com</a>
+<a href="mailto:ruthishkumar.rk@gmail.com">Email</a>
 
 <br><br>
 
@@ -27,13 +25,20 @@ Industrial Software
 
 ---
 
-## About Me
+<p align="center">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/about-portfolio.svg" width="100%" alt="About Ruthishkumar G">
+</p>
 
-I am an **M.Tech Computer Science and Engineering student at Sri Ramakrishna Engineering College, Coimbatore**, focused on Artificial Intelligence, Machine Learning, Generative AI, Computer Vision and Full Stack Development.
+<div align="center">
 
-I build practical applications that connect intelligent models with real-world software systems, from AI and embedded systems to web applications and industrial software.
+**M.Tech Computer Science & Engineering · Sri Ramakrishna Engineering College, Coimbatore**
 
-> **Current focus:** Building useful, deployable systems that combine intelligent models with strong software engineering.
+`Artificial Intelligence` · `Machine Learning` · `Generative AI` · `Computer Vision` · `Full Stack Development`
+
+> Building practical applications that connect intelligent models with real-world software systems.
+
+</div>
+
 
 ---
 
