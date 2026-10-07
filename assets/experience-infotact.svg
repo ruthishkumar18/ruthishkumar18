@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-label="Infotact Solutions internship">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#0f172a"/><stop offset="1" stop-color="#082f49"/></linearGradient><linearGradient id="g"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs>
+<rect width="760" height="360" rx="28" fill="url(#b)"/>
+<g opacity=".12" stroke="#22d3ee"><path d="M0 300H760M0 255H760M0 210H760M0 165H760M0 120H760"/><path d="M70 0L0 360M190 0L120 360M310 0L240 360M430 0L360 360M550 0L480 360M670 0L600 360"/></g>
+<g transform="translate(30 35)" font-family="Arial,Helvetica,sans-serif"><text fill="#67e8f9" font-size="12" font-weight="700" letter-spacing="3">WEB DEVELOPMENT • TAMIL NADU</text><text y="34" fill="#fff" font-size="23" font-weight="800">INFOTACT SOLUTIONS</text><text y="60" fill="#94a3b8" font-size="12">Web Development Intern • May 25, 2025 – Aug 25, 2025</text></g>
+<g transform="translate(545 175)">
+<ellipse rx="125" ry="62" fill="none" stroke="#22d3ee" stroke-width="2" opacity=".4"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/></ellipse>
+<g>
+<polygon points="0,-82 108,-36 0,10 -108,-36" fill="url(#g)" opacity=".85" stroke="#67e8f9" stroke-width="3"/>
+<polygon points="-108,-36 0,10 0,105 -108,59" fill="#0e7490" stroke="#22d3ee" stroke-width="3"/>
+<polygon points="0,10 108,-36 108,59 0,105" fill="#134e4a" stroke="#2dd4bf" stroke-width="3"/>
+<g fill="none" stroke="#67e8f9" stroke-width="4"><path d="M-55 45H56M-55 63H38M-55 81H20"/></g>
+<animateTransform attributeName="transform" type="rotate" values="0;8;0;-8;0" dur="5s" repeatCount="indefinite"/>
+</g>
+<circle cx="-135" cy="-74" r="6" fill="#2dd4bf"><animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(30 120)" font-family="monospace"><rect width="390" height="150" rx="18" fill="#0b1220" stroke="#0f766e"/><text x="18" y="27" fill="#64748b" font-size="10">ARTISAN MARKETPLACE</text><text x="18" y="53" fill="#67e8f9" font-size="12">ARTISAN REGISTRATION</text><text x="18" y="78" fill="#2dd4bf" font-size="12">PRODUCT UPLOAD → REVIEW</text><text x="18" y="103" fill="#a5f3fc" font-size="12">APPROVAL → BROWSE → PURCHASE</text><text x="18" y="128" fill="#94a3b8" font-size="11">FULL WORKFLOW PLATFORM</text></g>
+</svg>
