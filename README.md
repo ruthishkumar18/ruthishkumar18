@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## ◈ 3D PROFILE SPACE ◈
+## RUTHISHKUMAR G
 
 <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-hero.svg" width="100%" alt="3D animated developer profile">
 
@@ -54,6 +54,10 @@
 
 # 🧬 ENGINEER • LEARNER • BUILDER
 
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/about.svg" width="100%" alt="ENGINEER • LEARNER • BUILDER"></p>
+
+
+
 I'm an **M.Tech Computer Science and Engineering student at Sri Ramakrishna Engineering College, Coimbatore**, focused on Artificial Intelligence, Machine Learning, Generative AI, Computer Vision and Full Stack Development.
 
 I build practical applications that connect intelligent models with real-world software systems.
@@ -62,15 +66,19 @@ I build practical applications that connect intelligent models with real-world s
 
 ### Currently Exploring
 
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/exploring.svg" width="100%" alt="Currently Exploring"></p>
+
+
+
 `Artificial Intelligence` · `Machine Learning` · `Generative AI` · `Computer Vision` · `Full Stack Development` · `Industrial Software` · `Real-time Systems`
 
 ---
 
-# 🌌 3D CONTRIBUTION UNIVERSE
+# 🌌 GITHUB CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub contribution calendar">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="GitHub contribution activity">
 
 </div>
 
@@ -131,6 +139,10 @@ Building software around:
 
 # 🚀 PROJECT CONSTELLATION
 
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/projects.svg" width="100%" alt="PROJECT CONSTELLATION"></p>
+
+
+
 ### 🌿 PlantSpeakAI
 **AI Enabled Plant Electrophysiology Monitoring System**
 
@@ -178,6 +190,10 @@ Web-based leave request and approval workflow system developed during a Domestic
 
 # 🏭 INDUSTRIAL ENGINEERING
 
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/experience.svg" width="100%" alt="INDUSTRIAL ENGINEERING"></p>
+
+
+
 ## Sieger Spintech Equipment Pvt Ltd
 
 **Full Stack Developer Intern · Coimbatore**  
@@ -216,6 +232,10 @@ Developed an **artisan marketplace platform** supporting product registration, r
 ---
 
 # ⚙️ TECHNICAL ARSENAL
+
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/stack.svg" width="100%" alt="TECHNICAL ARSENAL"></p>
+
+
 
 <div align="center">
 
@@ -267,6 +287,10 @@ Developed an **artisan marketplace platform** supporting product registration, r
 
 # 🎓 ACADEMIC JOURNEY
 
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/education.svg" width="100%" alt="ACADEMIC JOURNEY"></p>
+
+
+
 **M.Tech – Computer Science and Engineering**  
 Sri Ramakrishna Engineering College, Coimbatore  
 Integrated 5-Year Program  
@@ -279,6 +303,10 @@ Integrated 5-Year Program
 ---
 
 # 🏆 LEADERSHIP & RECOGNITION
+
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/achievements.svg" width="100%" alt="LEADERSHIP & RECOGNITION"></p>
+
+
 
 | Recognition | Achievement |
 |---|---|
@@ -317,6 +345,10 @@ Integrated 5-Year Program
 <div align="center">
 
 # ◈ LET'S BUILD SOMETHING INTELLIGENT ◈
+
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/contact.svg" width="100%" alt="LET'S BUILD SOMETHING INTELLIGENT"></p>
+
+
 
 **AI / ML · Full Stack · Computer Vision · Industrial Software · Research · Collaboration**
 
