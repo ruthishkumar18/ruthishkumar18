@@ -6,57 +6,27 @@
 
 **Building Intelligent Systems with AI & Code**
 
-[![Open to Internships](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20COLLABORATIONS-06b6d4?style=for-the-badge&labelColor=050816)](https://www.linkedin.com/in/ruthishkumar18/)
+[![OPEN TO INTERNSHIPS & COLLABORATIONS](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_%26_COLLABORATIONS-06b6d4?style=for-the-badge&labelColor=050816)](https://www.linkedin.com/in/ruthishkumar18/)
 
-<br>
-
-<a href="https://github.com/ruthishkumar18">GitHub</a> •
-<a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a> •
-<a href="https://portfolio-ten-liard-71.vercel.app/">3D Portfolio</a> •
-<a href="mailto:ruthishkumar.rk@gmail.com">Email</a>
+[GitHub](https://github.com/ruthishkumar18) • [LinkedIn](https://www.linkedin.com/in/ruthishkumar18/) • [Portfolio](https://portfolio-ten-liard-71.vercel.app/) • [Email](mailto:ruthishkumar.rk@gmail.com)
 
 </div>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-hero.svg" width="100%" alt="Developer profile">
+</p>
 
 <div align="center">
 
-## RUTHISHKUMAR G
-
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-hero.svg" width="100%" alt="3D animated developer profile">
-
-<br>
-
-<table>
-<tr>
-<td align="center"><b>8.52</b><br><sub>CGPA</sub></td>
-<td align="center"><b>3</b><br><sub>INTERNSHIPS</sub></td>
-<td align="center"><b>2</b><br><sub>MAJOR AI/ML PROJECTS</sub></td>
-<td align="center"><b>1</b><br><sub>INDUSTRY PROJECT</sub></td>
-</tr>
-</table>
-
-### ◈ 3D INTELLIGENCE MODULES
-
-<table>
-<tr>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-neural.svg" width="100%" alt="Animated 3D neural AI module"></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-vision.svg" width="100%" alt="Animated 3D computer vision module"></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-code.svg" width="100%" alt="Animated 3D full stack code module"></td>
-</tr>
-</table>
-
-<p align="center"><sub>AI CORE • COMPUTER VISION • FULL STACK ENGINEERING</sub></p>
+| **8.52** | **3** | **2** | **1** |
+|---|---|---|---|
+| CGPA | INTERNSHIPS | MAJOR AI/ML PROJECTS | INDUSTRY PROJECT |
 
 </div>
 
 ---
 
-# 🧬 ENGINEER • LEARNER • BUILDER
-
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/about.svg" width="100%" alt="ENGINEER • LEARNER • BUILDER"></p>
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-about.svg" width="100%" alt="About"></p>
 
 I'm an **M.Tech Computer Science and Engineering student at Sri Ramakrishna Engineering College, Coimbatore**, focused on Artificial Intelligence, Machine Learning, Generative AI, Computer Vision and Full Stack Development.
 
@@ -64,122 +34,49 @@ I build practical applications that connect intelligent models with real-world s
 
 > **Current Mission:** Turn ideas into intelligent, deployable and useful software.
 
-### Currently Exploring
+---
 
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/exploring.svg" width="100%" alt="Currently Exploring"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-explore.svg" width="100%" alt="Currently exploring"></p>
 
-
-
-`Artificial Intelligence` · `Machine Learning` · `Generative AI` · `Computer Vision` · `Full Stack Development` · `Industrial Software` · `Real-time Systems`
+`Artificial Intelligence` • `Machine Learning` • `Generative AI` • `Computer Vision` • `Full Stack Development` • `Industrial Software` • `Real-time Systems`
 
 ---
 
-# 🌌 GITHUB CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="GitHub contribution activity">
-
-</div>
-
-> Your GitHub contribution history becomes the visual "terrain" of this profile. The GitHub Action generates the 3D contribution assets automatically.
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="GitHub contribution activity"></p>
 
 ---
 
-# 🧠 INTELLIGENCE LAYER
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🌿 Plant Intelligence
-
-**PlantSpeakAI**
-
-Plant bio-electrical signal monitoring and stress analysis using:
-
-`ESP32` · `ECG Electrodes` · `Signal Processing` · `Random Forest` · `Neural Network` · `Android`
-
-</td>
-<td width="50%" valign="top">
-
-## 👁️ Vision Intelligence
-
-**Industrial Computer Vision**
-
-Real-world detection systems for:
-
-`Steel Defects` · `O-Rings` · `YOLOv8` · `YOLOv11` · `OpenCV` · `Roboflow`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## ✨ Generative AI
-
-Exploring intelligent applications using:
-
-`Prompt Engineering` · `LLM Workflows` · `AI-Assisted Development`
-
-</td>
-<td width="50%" valign="top">
-
-## 🏭 Industrial Intelligence
-
-Building software around:
-
-`PLC Systems` · `Real-Time Data` · `ReactJS` · `Django ORM` · `MSSQL`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 PROJECT CONSTELLATION
-
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/projects.svg" width="100%" alt="PROJECT CONSTELLATION"></p>
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-projects.svg" width="100%" alt="Projects"></p>
 
 ### 🌿 PlantSpeakAI
 **AI Enabled Plant Electrophysiology Monitoring System**
 
 Captures plant bio-electrical signals through ECG electrodes connected to ESP32 and processes them for intelligent plant-stress analysis.
 
-**Stack:** `ESP32` `Python` `Random Forest` `Neural Network` `Signal Processing` `Android Studio`
-
----
+`ESP32` `Python` `Random Forest` `Neural Network` `Signal Processing` `Android Studio`
 
 ### 🔩 SteelDefectNet
 **Steel Surface Defect Detection Using Deep Learning**
 
 Developed deep-learning approaches including YOLOv11, CNN, ResNet and Vision Transformer for steel surface defect detection.
 
-**Stack:** `Python` `YOLOv11` `CNN` `ResNet` `Vision Transformer` `Roboflow` `Flask` `React`
-
----
+`Python` `YOLOv11` `CNN` `ResNet` `Vision Transformer` `Roboflow` `Flask` `React`
 
 ### 🔴 CIRCOR O-Ring Detection
 **Industrial Computer Vision Project**
 
 Automated O-Ring detection developed as part of the CIRCOR industry collaboration.
 
-**Stack:** `YOLOv8` `Python` `Computer Vision`
-
----
+`YOLOv8` `Python` `Computer Vision`
 
 ### 📋 Internship Management Portal
 **Full Stack · SREC**
 
 End-to-end internship workflow management platform designed, developed and deployed for SREC.
 
-**Stack:** `React` `Node.js`
+`React` `Node.js`
 
 [Open Live Portal →](https://sim.srec.ac.in/internportal)
-
----
 
 ### 📝 Online Leave Management System
 **Hackathon Project**
@@ -188,11 +85,7 @@ Web-based leave request and approval workflow system developed during a Domestic
 
 ---
 
-# 🏭 INDUSTRIAL ENGINEERING
-
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/experience.svg" width="100%" alt="INDUSTRIAL ENGINEERING"></p>
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-experience.svg" width="100%" alt="Experience"></p>
 
 ## Sieger Spintech Equipment Pvt Ltd
 
@@ -200,8 +93,6 @@ Web-based leave request and approval workflow system developed during a Domestic
 **June 3, 2026 – December 3, 2026**
 
 Working on a PLC-based industrial application involving **ReactJS, Python Django ORM and MSSQL**, with collaboration involving **Nikkika, Coimbatore and Indorama, Turkey**.
-
-### What I Work On
 
 - Application screens and project reports
 - Feature development
@@ -213,83 +104,29 @@ Working on a PLC-based industrial application involving **ReactJS, Python Django
 - Light / dark theme
 - English / Turkish language switching
 
----
-
-# 💼 EXPERIENCE TIMELINE
+### Previous Internships
 
 | ROLE | ORGANIZATION | PERIOD |
 |---|---|---|
-| **Full Stack Developer Intern** | **Sieger Spintech Equipment Pvt Ltd** | Jun 3, 2026 – Dec 3, 2026 |
 | **App Development Intern** | **Micro Infotech, Coimbatore** | Dec 8, 2025 – Dec 23, 2025 |
 | **Web Development Intern** | **Infotact Solutions, Tamil Nadu** | May 25, 2025 – Aug 25, 2025 |
 
-### Micro Infotech
-Built an **Intelligent Quotation Creation and Management Application** for automated quotation generation, covering UI components, backend business logic and secure data management.
+---
 
-### Infotact Solutions
-Developed an **artisan marketplace platform** supporting product registration, review, approval, browsing and purchasing workflows.
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-stack.svg" width="100%" alt="Technical arsenal"></p>
+
+| Area | Technologies |
+|---|---|
+| Programming | `Python` `C` `JavaScript` `HTML5` `CSS3` |
+| AI / ML | `YOLO` `CNN` `Random Forest` `Neural Networks` `ResNet` `Vision Transformer` `Prompt Engineering` |
+| Frameworks | `ReactJS` `Flask` `Django ORM` `Streamlit` `Node.js` |
+| Databases | `MySQL` `PostgreSQL` `MSSQL` `MongoDB` `SQLite3` `Firebase` `ThingSpeak` |
+| Tools | `Git` `GitHub` `LM Studio` `Google Colab` `Roboflow` `Android Studio` `Jira` |
+| Core | `Data Structures` `Algorithms` `OOPS` `API Integration` |
 
 ---
 
-# ⚙️ TECHNICAL ARSENAL
-
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/stack.svg" width="100%" alt="TECHNICAL ARSENAL"></p>
-
-
-
-<div align="center">
-
-### PROGRAMMING
-
-`Python` · `C` · `JavaScript` · `HTML5` · `CSS3`
-
-### AI / ML / DEEP LEARNING
-
-`YOLO` · `CNN` · `Random Forest` · `Neural Networks` · `ResNet` · `Vision Transformer` · `Prompt Engineering`
-
-### FRAMEWORKS
-
-`ReactJS` · `Flask` · `Django ORM` · `Streamlit` · `Node.js`
-
-### DATABASES
-
-`MySQL` · `PostgreSQL` · `MSSQL` · `MongoDB` · `SQLite3` · `Firebase` · `ThingSpeak`
-
-### TOOLS
-
-`Git` · `GitHub` · `LM Studio` · `Google Colab` · `Roboflow` · `Android Studio` · `Jira`
-
-### CORE
-
-`Data Structures` · `Algorithms` · `OOPS` · `API Integration`
-
-</div>
-
----
-
-# 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruthishkumar18&theme=github_dark" width="100%" alt="GitHub profile activity">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruthishkumar18&bg_color=050816&color=67e8f9&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity">
-
-<br>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=ruthishkumar18&theme=transparent&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&background=050816" width="100%" alt="GitHub contribution streak">
-
-</div>
-
----
-
-# 🎓 ACADEMIC JOURNEY
-
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/education.svg" width="100%" alt="ACADEMIC JOURNEY"></p>
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-education.svg" width="100%" alt="Education"></p>
 
 **M.Tech – Computer Science and Engineering**  
 Sri Ramakrishna Engineering College, Coimbatore  
@@ -302,66 +139,32 @@ Integrated 5-Year Program
 
 ---
 
-# 🏆 LEADERSHIP & RECOGNITION
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-achievements.svg" width="100%" alt="Achievements"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/achievements.svg" width="100%" alt="LEADERSHIP & RECOGNITION"></p>
+- **Ambassador**, AI Vishwaguru Initiative, SREC
+- **Executive Member**, Association of Master's Tech CSE, SREC
+- **3rd Place**, GitSetGo Contest, FOSS Club, SREC
+- **Runner-Up**, NiCHE Non-Technical Event, MBA Department, SREC
+- **Event Coordinator**, Codeathon at UTSAVA 2026 Techno-Cultural Fest
 
+### Credentials
 
-
-| Recognition | Achievement |
-|---|---|
-| 🤖 **Ambassador** | AI Vishwaguru Initiative, SREC |
-| 🧩 **Executive Member** | Association of Master's Tech CSE, SREC |
-| 🥉 **3rd Place** | GitSetGo Contest, FOSS Club, SREC |
-| 🥈 **Runner-Up** | NiCHE Non-Technical Event, MBA Department, SREC |
-| 🎤 **Event Coordinator** | Codeathon at UTSAVA 2026 Techno-Cultural Fest |
-
----
-
-# 📜 CREDENTIALS
-
-- **Generative AI: Hands-on Approach** · Sri Ramakrishna Engineering College
-- **TCS iON Career Edge – Young Professional** · TCS iON
-- **MongoDB University Skill Badges and Certifications** · MongoDB Atlas
-- **Privacy and Security in Online Social Media** · NPTEL
-- **Natural Language Processing** · NPTEL
+- **Generative AI: Hands-on Approach**, Sri Ramakrishna Engineering College
+- **TCS iON Career Edge – Young Professional**, TCS iON
+- **MongoDB University Skill Badges and Certifications**, MongoDB Atlas
+- **Privacy and Security in Online Social Media**, NPTEL
+- **Natural Language Processing**, NPTEL
 
 ---
 
-# 🧩 SELECTED REPOSITORIES
+<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-contact.svg" width="100%" alt="Contact"></p>
 
 <div align="center">
-
-[🌿 PlantSpeakAI](https://github.com/ruthishkumar18/PlantSpeakAI) ·
-[🔩 SteelDefectNet](https://github.com/ruthishkumar18/SteelDefectNet) ·
-[🔴 O-RING PROJECT](https://github.com/ruthishkumar18/O-RING_PROJECT) ·
-[🏭 PLC PROJECT](https://github.com/ruthishkumar18/plc_project) ·
-[🌐 PORTFOLIO](https://github.com/ruthishkumar18/portfolio)
-
-</div>
-
----
-
-<div align="center">
-
-# ◈ LET'S BUILD SOMETHING INTELLIGENT ◈
-
-<p align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/contact.svg" width="100%" alt="LET'S BUILD SOMETHING INTELLIGENT"></p>
-
-
 
 **AI / ML · Full Stack · Computer Vision · Industrial Software · Research · Collaboration**
 
-<br>
-
-<a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a> •
-<a href="mailto:ruthishkumar.rk@gmail.com">Email</a> •
-<a href="https://portfolio-ten-liard-71.vercel.app/">Portfolio</a>
-
-<br><br>
+[LinkedIn](https://www.linkedin.com/in/ruthishkumar18/) • [Email](mailto:ruthishkumar.rk@gmail.com) • [Portfolio](https://portfolio-ten-liard-71.vercel.app/)
 
 **Engineer. Learner. Builder.**
-
-<sub>© 2026 Ruthishkumar G</sub>
 
 </div>
