@@ -23,6 +23,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Keep only the profile animation used by README
+        run: |
+          find profile-3d-contrib -type f ! -name "profile-season-animate.svg" -delete
+
       - name: Commit generated SVG
         run: |
           git config user.name "github-actions"
