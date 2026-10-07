@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-label="TOOLS">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+<rect width="320" height="150" rx="20" fill="url(#b)"/>
+<g opacity=".12" stroke="#22d3ee"><path d="M0 120H320M0 90H320M0 60H320M0 30H320"/><path d="M35 0L0 150M115 0L80 150M195 0L160 150M275 0L240 150"/></g>
+<g transform="translate(243 75)"><g stroke="#22d3ee" stroke-width="4" fill="none"><circle r="36"/><path d="M-55 0H-20M20 0H55M0-55V-20M0 20V55"/></g><polygon points="0,-16 14,0 0,16 -14,0" fill="#fff" opacity=".8"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/></g>
+<text x="20" y="48" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800">TOOLS</text>
+<rect x="20" y="64" width="115" height="3" rx="2" fill="#22d3ee"><animate attributeName="width" values="55;145;85;115" dur="3.5s" repeatCount="indefinite"/></rect>
+<text x="20" y="96" fill="#64748b" font-family="monospace" font-size="10">BUILD • LEARN • APPLY</text>
+</svg>
