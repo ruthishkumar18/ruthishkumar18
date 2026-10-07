@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-label="CORE CONCEPTS">
-<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
-<rect width="320" height="150" rx="20" fill="url(#b)"/>
-<g opacity=".12" stroke="#8b5cf6"><path d="M0 120H320M0 90H320M0 60H320M0 30H320"/><path d="M35 0L0 150M115 0L80 150M195 0L160 150M275 0L240 150"/></g>
-<g transform="translate(243 75)"><polygon points="0,-40 38,-20 38,22 0,42 -38,22 -38,-20" fill="#8b5cf6" opacity=".9" stroke="#fff" stroke-opacity=".4"/><text x="-15" y="8" fill="#fff" font-family="monospace" font-size="13" font-weight="700">DS</text><animateTransform attributeName="transform" type="rotate" values="0;12;0;-12;0" dur="4s" repeatCount="indefinite"/></g>
-<text x="20" y="48" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800">CORE CONCEPTS</text>
-<rect x="20" y="64" width="115" height="3" rx="2" fill="#8b5cf6"><animate attributeName="width" values="55;145;85;115" dur="3.5s" repeatCount="indefinite"/></rect>
-<text x="20" y="96" fill="#64748b" font-family="monospace" font-size="10">BUILD • LEARN • APPLY</text>
-</svg>
