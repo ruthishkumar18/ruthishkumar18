@@ -101,29 +101,31 @@ Building industrial applications around ReactJS, Python Django ORM, MSSQL, PLC s
 
 ## Featured Projects
 
-### PlantSpeakAI
-**AI Enabled Plant Electrophysiology Monitoring System**
+<div align="center">
 
-Captures plant bio-electrical signals through ECG electrodes connected to ESP32 and processes them for intelligent plant-stress analysis.
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-`ESP32` `Python` `Random Forest` `Neural Network` `Signal Processing` `Android Studio`
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/project-circor.svg" width="100%" alt="CIRCOR O-Ring Detection">
 
-### SteelDefectNet
-**Steel Surface Defect Detection Using Deep Learning**
+**CIRCOR O-Ring Detection**
 
-Developed deep-learning approaches including YOLOv11, CNN, ResNet and Vision Transformer for steel surface defect detection.
-
-`Python` `YOLOv11` `CNN` `ResNet` `Vision Transformer` `Roboflow` `Flask` `React`
-
-### CIRCOR O-Ring Detection
-**Industrial Computer Vision Project**
+Industrial Computer Vision Project
 
 Automated O-Ring detection completed as part of the CIRCOR industry collaboration.
 
 `YOLOv8` `Python` `Computer Vision`
 
-### Internship Management Portal
-**Full Stack · SREC**
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/project-portal.svg" width="100%" alt="Internship Management Portal">
+
+**Internship Management Portal**
+
+Full Stack · SREC
 
 End-to-end internship workflow management platform designed, developed and deployed for SREC.
 
@@ -131,11 +133,35 @@ End-to-end internship workflow management platform designed, developed and deplo
 
 [Open Live Portal →](https://sim.srec.ac.in/internportal)
 
-### Online Leave Management System
-**Hackathon Project**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/project-leave.svg" width="100%" alt="Online Leave Management System">
+
+**Online Leave Management System**
+
+Hackathon Project
 
 Web-based leave request and approval workflow system developed during a Domestic Hackathon at SREC.
 
+</td>
+<td width="50%" valign="top" align="center">
+
+### ✦
+
+**Selected Work**
+
+`Computer Vision` · `Full Stack` · `Workflow Automation`
+
+`Industrial AI` · `Real-Time Applications`
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 <p align="center">
