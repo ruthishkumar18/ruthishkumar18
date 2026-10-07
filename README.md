@@ -168,10 +168,17 @@ Working on a PLC-based industrial application involving **ReactJS, Python Django
 <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/education-panel.svg" width="100%" alt="Education">
 </p>
 
-**Sri Ramakrishna Engineering College, Coimbatore** · Integrated 5-Year M.Tech CSE  
-**August 2023 – Present** · **CGPA 8.52, Till 6th Semester**
+<div align="center">
 
-**Active Member** · Association of Master's Tech CSE
+**Sri Ramakrishna Engineering College, Coimbatore**
+
+`M.Tech CSE` · `Integrated 5-Year Program` · `Aug 2023 – Present`
+
+**CGPA 8.52** · **Till 6th Semester**
+
+`Association of Master's Tech CSE` · Active Member
+
+</div>
 
 ---
 
@@ -179,20 +186,15 @@ Working on a PLC-based industrial application involving **ReactJS, Python Django
 <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/leadership-panel.svg" width="100%" alt="Leadership and Recognition">
 </p>
 
-### Leadership
+<div align="center">
 
-**Ambassador** · AI Vishwaguru Initiative  
-**Executive Member** · Association of Master's Tech CSE  
-**Event Coordinator** · Codeathon at UTSAVA 2026
+| **LEADERSHIP** | **RECOGNITION** | **CREDENTIALS** |
+|:---:|:---:|:---:|
+| AI Vishwaguru<br><sub>Ambassador</sub> | GitSetGo<br><sub>3rd Place</sub> | Generative AI<br><sub>Hands-on Approach</sub> |
+| Association of Master's Tech<br><sub>Executive Member</sub> | NiCHE<br><sub>Runner-Up</sub> | TCS iON<br><sub>Career Edge</sub> |
+| UTSAVA 2026<br><sub>Event Coordinator</sub> | FOSS Club<br><sub>Contest</sub> | MongoDB University<br><sub>Skill Badges</sub> |
 
-### Recognition
-
-**3rd Place** · GitSetGo Contest, FOSS Club  
-**Runner-Up** · NiCHE Non-Technical Event, MBA Department
-
-### Credentials
-
-`Generative AI: Hands-on Approach` · `TCS iON Career Edge – Young Professional` · `MongoDB University Skill Badges` · `NPTEL`
+</div>
 
 ---
 
@@ -200,11 +202,13 @@ Working on a PLC-based industrial application involving **ReactJS, Python Django
 
 <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/footer-panel.svg" width="100%" alt="Let's connect">
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/ruthishkumar18/">Connect on LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:ruthishkumar.rk@gmail.com">Send Email</a> &nbsp;·&nbsp;
-<a href="https://portfolio-ten-liard-71.vercel.app/">Open Portfolio</a>
+<a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:ruthishkumar.rk@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://portfolio-ten-liard-71.vercel.app/">Portfolio</a>
 
 <br><br>
 
