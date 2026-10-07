@@ -13,14 +13,6 @@
 
 ---
 
-<div align="center">
-
-| **8.52** | **3** | **2** | **1** |
-|:---:|:---:|:---:|:---:|
-| CGPA | INTERNSHIPS | AI / ML PROJECTS | INDUSTRY PROJECT |
-
-</div>
-
 ## About Me
 
 I am an **M.Tech Computer Science and Engineering student at Sri Ramakrishna Engineering College, Coimbatore**, focused on Artificial Intelligence, Machine Learning, Generative AI, Computer Vision and Full Stack Development.
@@ -167,80 +159,46 @@ Working on a PLC-based industrial application involving **ReactJS, Python Django
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-stack.svg" width="100%" alt="Technical arsenal">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-panel.svg" width="100%" alt="Technical Arsenal">
 </p>
-
-## Technical Arsenal
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Programming**  
-`Python` `C` `JavaScript` `HTML5` `CSS3`
-
-**AI / ML**  
-`YOLO` `CNN` `Random Forest` `Neural Networks` `ResNet` `Vision Transformer` `Prompt Engineering`
-
-**Frameworks**  
-`ReactJS` `Flask` `Django ORM` `Streamlit` `Node.js`
-
-</td>
-<td width="50%" valign="top">
-
-**Databases**  
-`MySQL` `PostgreSQL` `MSSQL` `MongoDB` `SQLite3` `Firebase` `ThingSpeak`
-
-**Tools**  
-`Git` `GitHub` `LM Studio` `Google Colab` `Roboflow` `Android Studio` `Jira`
-
-**Core**  
-`Data Structures` `Algorithms` `OOPS` `API Integration`
-
-</td>
-</tr>
-</table>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-education.svg" width="100%" alt="Education">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/education-panel.svg" width="100%" alt="Education">
 </p>
 
-## Education
+**Sri Ramakrishna Engineering College, Coimbatore** · Integrated 5-Year M.Tech CSE  
+**August 2023 – Present** · **CGPA 8.52, Till 6th Semester**
 
-**M.Tech – Computer Science and Engineering**  
-Sri Ramakrishna Engineering College, Coimbatore  
-Integrated 5-Year Program  
-**August 2023 – Present**
-
-**CGPA: 8.52 · Till 6th Semester**
-
-**Active Member · Association of Master's Tech CSE**
+**Active Member** · Association of Master's Tech CSE
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/section-achievements.svg" width="100%" alt="Achievements">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/leadership-panel.svg" width="100%" alt="Leadership and Recognition">
 </p>
 
-## Leadership & Recognition
+### Leadership
 
-- **Ambassador**, AI Vishwaguru Initiative, SREC
-- **Executive Member**, Association of Master's Tech CSE, SREC
-- **3rd Place**, GitSetGo Contest, FOSS Club, SREC
-- **Runner-Up**, NiCHE Non-Technical Event, MBA Department, SREC
-- **Event Coordinator**, Codeathon at UTSAVA 2026 Techno-Cultural Fest
+**Ambassador** · AI Vishwaguru Initiative  
+**Executive Member** · Association of Master's Tech CSE  
+**Event Coordinator** · Codeathon at UTSAVA 2026
+
+### Recognition
+
+**3rd Place** · GitSetGo Contest, FOSS Club  
+**Runner-Up** · NiCHE Non-Technical Event, MBA Department
 
 ### Credentials
 
-`Generative AI: Hands-on Approach` · `TCS iON Career Edge – Young Professional` · `MongoDB University Skill Badges` · `NPTEL: Privacy and Security in Online Social Media` · `NPTEL: Natural Language Processing`
+`Generative AI: Hands-on Approach` · `TCS iON Career Edge – Young Professional` · `MongoDB University Skill Badges` · `NPTEL`
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/contact-portfolio.svg" width="100%" alt="Contact Ruthishkumar G">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/footer-panel.svg" width="100%" alt="Let's connect">
 
 <br>
 
