@@ -230,10 +230,79 @@ Developed an **artisan marketplace platform** supporting registration, product r
 </div>
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-panel.svg" width="100%" alt="Technical Arsenal">
-</p>
+## Technical Arsenal
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-programming.svg" width="100%" alt="Programming">
+
+### Programming
+
+`Python` · `C` · `JavaScript` · `ReactJS` · `HTML5` · `CSS3`
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-ai.svg" width="100%" alt="AI ML Deep Learning">
+
+### AI / ML / Deep Learning
+
+`YOLO` · `CNN` · `Prompt Engineering`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-frameworks.svg" width="100%" alt="Frameworks">
+
+### Frameworks
+
+`Flask` · `Django ORM` · `Streamlit` · `Node.js`
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-databases.svg" width="100%" alt="Databases">
+
+### Databases
+
+`MySQL` · `PostgreSQL` · `MSSQL` · `MongoDB` · `SQLite3` · `Firebase` · `ThingSpeak`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-tools.svg" width="100%" alt="Tools">
+
+### Tools
+
+`Git` · `GitHub` · `LM Studio` · `Google Colab` · `Roboflow` · `Android Studio` · `Jira`
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/tech-core.svg" width="100%" alt="Core Concepts">
+
+### Core Concepts
+
+`Data Structures` · `Algorithms` · `OOPS` · `API Integration`
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 <p align="center">
