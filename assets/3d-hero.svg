@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Ruthishkumar G animated 3D AI developer hero">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0b1730"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .orbit{fill:none;stroke:#22d3ee;stroke-width:2;opacity:.35}
+    .dot{fill:#67e8f9;filter:url(#glow)}
+    .cube{fill:none;stroke:#a5f3fc;stroke-width:2;opacity:.7}
+    .small{font:600 16px monospace;fill:#94a3b8;letter-spacing:2px}
+    .title{font:700 48px system-ui,sans-serif;fill:white}
+    .accent{font:700 20px system-ui,sans-serif;fill:#67e8f9}
+  </style>
+</defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<g opacity=".25">
+ <path d="M0 420 L1200 100 M0 480 L1200 160 M0 360 L1200 40" stroke="#334155"/>
+ <path d="M100 0 L40 520 M220 0 L160 520 M340 0 L280 520 M460 0 L400 520" stroke="#1e293b"/>
+</g>
+<g transform="translate(875 260)">
+ <ellipse rx="245" ry="78" class="orbit" transform="rotate(18)"/>
+ <ellipse rx="245" ry="78" class="orbit" transform="rotate(-32)"/>
+ <ellipse rx="210" ry="120" class="orbit" transform="rotate(72)"/>
+ <circle r="82" fill="none" stroke="url(#cyan)" stroke-width="3" opacity=".75"/>
+ <circle r="58" fill="url(#cyan)" opacity=".09" stroke="#67e8f9"/>
+ <circle r="10" class="dot"/>
+ <circle r="245" class="dot" r="6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></circle>
+ <circle cx="210" cy="-80" class="dot" r="5"><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="12s" repeatCount="indefinite"/></circle>
+ <g transform="translate(-30 -30)">
+   <path d="M0 0 L60 25 L60 95 L0 70 Z" class="cube"/>
+   <path d="M60 25 L105 0 L105 70 L60 95 Z" class="cube"/>
+   <path d="M0 0 L45 -25 L105 0 L60 25 Z" class="cube"/>
+   <animateTransform attributeName="transform" type="rotate" values="0;8;0;-8;0" dur="6s" repeatCount="indefinite"/>
+ </g>
+</g>
+<g transform="translate(72 82)">
+ <text class="small">OPEN TO INTERNSHIPS &amp; COLLABORATIONS</text>
+ <text y="78" class="title">RUTHISHKUMAR G</text>
+ <text y="122" class="accent">Building Intelligent Systems with AI &amp; Code.</text>
+ <text y="178" class="small">AI / ML  •  COMPUTER VISION  •  GENERATIVE AI  •  FULL STACK</text>
+ <g transform="translate(0 225)">
+  <rect width="210" height="72" rx="14" fill="#0f172a" stroke="#164e63"/>
+  <text x="18" y="28" class="small">CGPA</text><text x="18" y="57" class="title" font-size="25">8.52</text>
+  <rect x="225" width="210" height="72" rx="14" fill="#0f172a" stroke="#164e63"/>
+  <text x="243" y="28" class="small">INTERNSHIPS</text><text x="243" y="57" class="title" font-size="25">3</text>
+  <rect x="450" width="210" height="72" rx="14" fill="#0f172a" stroke="#164e63"/>
+  <text x="468" y="28" class="small">AI / ML PROJECTS</text><text x="468" y="57" class="title" font-size="25">2</text>
+ </g>
+</g>
+<circle cx="104" cy="445" r="3" fill="#a78bfa"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="1140" cy="70" r="3" fill="#67e8f9"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+</svg>
