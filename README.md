@@ -1,13 +1,27 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/hero-portfolio.svg" width="100%" alt="Ruthishkumar G portfolio hero">
+<a href="https://ruthishkumar.vercel.app">
+  <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/hero-portfolio.svg" width="100%" alt="Ruthishkumar G portfolio hero">
+</a>
 
-<br>
+<br><br>
 
-<a href="https://github.com/ruthishkumar18">GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://portfolio-ten-liard-71.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-<a href="mailto:ruthishkumar.rk@gmail.com">Email</a>
+<a href="https://github.com/ruthishkumar18">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://ruthishkumar.vercel.app">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="mailto:ruthishkumar.rk@gmail.com">ruthishkumar.rk@gmail.com</a>
+
+<br><br>
+
+<sub>
+AI &amp; Full Stack Developer &nbsp;•&nbsp;
+Computer Vision &nbsp;•&nbsp;
+Generative AI &nbsp;•&nbsp;
+Industrial Software
+</sub>
 
 </div>
 
