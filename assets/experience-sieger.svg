@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-label="Sieger Spintech internship">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#0f172a"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="c"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#0891b2"/></linearGradient><linearGradient id="a"><stop stop-color="#fbbf24"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs>
+<rect width="760" height="360" rx="28" fill="url(#b)"/>
+<g opacity=".12" stroke="#38bdf8"><path d="M0 300H760M0 255H760M0 210H760M0 165H760M0 120H760"/><path d="M70 0L0 360M190 0L120 360M310 0L240 360M430 0L360 360M550 0L480 360M670 0L600 360"/></g>
+<g transform="translate(30 35)" font-family="Arial,Helvetica,sans-serif"><text fill="#67e8f9" font-size="12" font-weight="700" letter-spacing="3">CURRENT • COIMBATORE</text><text y="34" fill="#fff" font-size="23" font-weight="800">SIEGER SPINTECH EQUIPMENT PVT LTD</text><text y="60" fill="#94a3b8" font-size="12">Full Stack Developer Intern • Jun 3, 2026 – Dec 3, 2026</text></g>
+<g transform="translate(545 176)">
+<ellipse rx="130" ry="60" fill="none" stroke="#22d3ee" stroke-width="2" opacity=".38"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="11s" repeatCount="indefinite"/></ellipse>
+<ellipse rx="98" ry="84" fill="none" stroke="#f59e0b" stroke-width="2" opacity=".35"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/></ellipse>
+<g>
+<polygon points="0,-74 84,-34 84,45 0,85 -84,45 -84,-34" fill="#0f172a" stroke="#67e8f9" stroke-width="3"/>
+<polygon points="0,-74 84,-34 0,0 -84,-34" fill="url(#c)" opacity=".8"/>
+<polygon points="-84,-34 0,0 0,85 -84,45" fill="#0e7490"/>
+<polygon points="0,0 84,-34 84,45 0,85" fill="#312e81"/>
+<animateTransform attributeName="transform" type="rotate" values="0;10;0;-10;0" dur="5s" repeatCount="indefinite"/>
+</g>
+<circle cx="125" cy="-60" r="6" fill="#fbbf24"><animate attributeName="r" values="4;10;4" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="-125" cy="58" r="6" fill="#67e8f9"><animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(30 120)" font-family="monospace"><rect width="350" height="150" rx="18" fill="#0b1220" stroke="#164e63"/><text x="18" y="27" fill="#64748b" font-size="10">INDUSTRIAL STACK</text><text x="18" y="53" fill="#67e8f9" font-size="12">ReactJS → Django ORM</text><text x="18" y="78" fill="#a78bfa" font-size="12">Django → MSSQL</text><text x="18" y="103" fill="#fbbf24" font-size="12">PLC → REAL-TIME DATA</text><text x="18" y="128" fill="#94a3b8" font-size="11">Nikkika • Indorama • Deployment</text></g>
+</svg>
