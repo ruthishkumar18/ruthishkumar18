@@ -2,25 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/hero-portfolio.svg" width="100%" alt="Ruthishkumar G portfolio hero">
 
-<br><br>
-
-<a href="https://github.com/ruthishkumar18">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://ruthishkumar.vercel.app">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="mailto:ruthishkumar.rk@gmail.com">Email</a>
-
-<br><br>
-
-<sub>
-AI &amp; Full Stack Developer &nbsp;•&nbsp;
-Computer Vision &nbsp;•&nbsp;
-Generative AI &nbsp;•&nbsp;
-Industrial Software
-</sub>
-
 </div>
 
 ---
@@ -52,11 +33,13 @@ Industrial Software
 
 ## What I Build
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🌿 Plant Intelligence
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/build-plant.svg" width="100%" alt="Plant Intelligence">
 
 **PlantSpeakAI**
 
@@ -65,9 +48,9 @@ Plant bio-electrical signal monitoring and plant-stress analysis using ESP32, el
 `ESP32` `Python` `Random Forest` `Neural Network`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 👁️ Computer Vision
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/build-vision.svg" width="100%" alt="Computer Vision">
 
 **Industrial Vision Systems**
 
@@ -78,9 +61,9 @@ Steel surface defect detection and O-Ring detection using modern object-detectio
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🌐 Full Stack
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/build-fullstack.svg" width="100%" alt="Full Stack Development">
 
 **Production Web Applications**
 
@@ -89,11 +72,11 @@ Frontend, backend, database and deployment workflows using React, Flask, Django 
 `ReactJS` `Flask` `Django` `Node.js`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🏭 Industrial Software
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/build-industrial.svg" width="100%" alt="Industrial Software">
 
-**PLC & Real-Time Systems**
+**PLC &amp; Real-Time Systems**
 
 Building industrial applications around ReactJS, Python Django ORM, MSSQL, PLC systems, deployment and troubleshooting.
 
@@ -103,6 +86,7 @@ Building industrial applications around ReactJS, Python Django ORM, MSSQL, PLC s
 </tr>
 </table>
 
+</div>
 ---
 
 <p align="center">
