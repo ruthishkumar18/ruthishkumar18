@@ -36,6 +36,18 @@
 </tr>
 </table>
 
+### ◈ 3D INTELLIGENCE MODULES
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-neural.svg" width="100%" alt="Animated 3D neural AI module"></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-vision.svg" width="100%" alt="Animated 3D computer vision module"></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-code.svg" width="100%" alt="Animated 3D full stack code module"></td>
+</tr>
+</table>
+
+<p align="center"><sub>AI CORE • COMPUTER VISION • FULL STACK ENGINEERING</sub></p>
+
 </div>
 
 ---
