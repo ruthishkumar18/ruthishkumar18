@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 300" role="img" aria-label="Let's build something intelligent">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#0f172a"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="g"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="1400" height="300" rx="28" fill="url(#bg)"/>
+<g opacity=".17" stroke="#38bdf8"><path d="M0 250H1400M0 205H1400M0 160H1400M0 115H1400M0 70H1400"/><path d="M120 0L40 300M280 0L200 300M440 0L360 300M600 0L520 300M760 0L680 300M920 0L840 300M1080 0L1000 300M1240 0L1160 300"/></g>
+<g transform="translate(1090 150)">
+<circle r="78" fill="none" stroke="#22d3ee" stroke-width="2" opacity=".4"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></circle>
+<circle r="52" fill="none" stroke="#8b5cf6" stroke-width="2" opacity=".45"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/></circle>
+<g stroke="url(#g)" stroke-width="4" fill="none"><circle cx="-60" cy="0" r="12"/><circle cx="60" cy="0" r="12"/><circle cy="0" cy="-50" r="12"/><path d="M-48-6L-12-42M12-42L48-6M-48 6L48 6"/></g>
+<circle r="8" fill="#67e8f9"><animate attributeName="r" values="6;13;6" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(70 72)" font-family="Arial,Helvetica,sans-serif">
+<text fill="#67e8f9" font-size="15" font-weight="700" letter-spacing="4">LET'S BUILD SOMETHING INTELLIGENT</text>
+<text y="62" fill="#fff" font-size="40" font-weight="800">Have an idea worth building?</text>
+<text y="102" fill="#94a3b8" font-size="18">AI / ML • Computer Vision • Full Stack • Industrial Software</text>
+<rect y="136" width="245" height="3" rx="2" fill="url(#g)"><animate attributeName="width" values="100;280;190;245" dur="4s" repeatCount="indefinite"/></rect>
+<text y="184" fill="#cbd5e1" font-size="17">LinkedIn  •  Email  •  Portfolio</text>
+<text y="220" fill="#64748b" font-size="13">Engineer. Learner. Builder.</text>
+</g></svg>
