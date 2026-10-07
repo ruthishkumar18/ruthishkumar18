@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://portfolio-ten-liard-71.vercel.app/" title="Open my portfolio"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-portfolio.svg" width="210" alt="Portfolio"></a>
+<a href="https://ruthishkumar.vercel.app/" title="Open my portfolio"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-portfolio.svg" width="210" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ruthishkumar18/" title="Connect on LinkedIn"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-linkedin.svg" width="210" alt="LinkedIn"></a>
 <a href="mailto:ruthishkumar.rk@gmail.com" title="Send me an email"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-email.svg" width="210" alt="Email"></a>
 <a href="https://github.com/ruthishkumar18" title="My GitHub profile"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-github.svg" width="210" alt="GitHub"></a>
@@ -124,14 +124,14 @@
 </p>
 
 <p align="center">
-<a href="https://portfolio-ten-liard-71.vercel.app/" title="Open my portfolio"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-portfolio.svg" width="210" alt="Portfolio"></a>
+<a href="https://ruthishkumar.vercel.app/" title="Open my portfolio"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-portfolio.svg" width="210" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ruthishkumar18/" title="Connect on LinkedIn"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-linkedin.svg" width="210" alt="LinkedIn"></a>
 <a href="mailto:ruthishkumar.rk@gmail.com" title="Send me an email"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-email.svg" width="210" alt="Email"></a>
 <a href="https://github.com/ruthishkumar18" title="My GitHub profile"><img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/btn-github.svg" width="210" alt="GitHub"></a>
 </p>
 
 <p align="center">
-<sub><a href="https://portfolio-ten-liard-71.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a> · <a href="mailto:ruthishkumar.rk@gmail.com">ruthishkumar.rk@gmail.com</a></sub>
+<sub><a href="https://ruthishkumar.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/ruthishkumar18/">LinkedIn</a> · <a href="mailto:ruthishkumar.rk@gmail.com">ruthishkumar.rk@gmail.com</a></sub>
 </p>
 
 <p align="center">
