@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/3d-hero.svg" width="100%" alt="Animated 3D portfolio hero">
+  <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/3d-hero.svg" width="100%" alt="Animated 3D portfolio hero">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Working on a PLC-based industrial application involving ReactJS, Python Django O
 ## 🌐 3D Contribution Universe
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Animated 3D GitHub contribution calendar">
+  <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Animated 3D GitHub contribution calendar">
 </p>
 
 <p align="center">
