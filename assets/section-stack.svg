@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#0f172a"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="g"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="260" rx="28" fill="url(#b)"/>
+<g opacity=".16" stroke="#06b6d4" stroke-width="1"><path d="M0 210H1200M0 170H1200M0 130H1200M0 90H1200M0 50H1200"/><path d="M70 0L0 260M210 0L140 260M350 0L280 260M490 0L420 260M630 0L560 260M770 0L700 260M910 0L840 260M1050 0L980 260"/></g>
+<g transform="translate(1040 130)">
+<circle r="78" fill="none" stroke="#06b6d4" stroke-width="2" opacity=".4"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></circle>
+<circle r="52" fill="none" stroke="#a78bfa" stroke-width="2" opacity=".55"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/></circle>
+<g><polygon points="0,-55 58,-25 0,5 -58,-25" fill="c1" opacity=".8"/><polygon points="-58,-25 0,5 0,64 -58,34" fill="c2" opacity=".8"/><polygon points="0,5 58,-25 58,34 0,64" fill="#312e81" opacity=".85"/><animateTransform attributeName="transform" type="rotate" values="0;360" dur="10s" repeatCount="indefinite"/></g>
+<circle r="7" fill="#06b6d4"><animate attributeName="r" values="5;10;5" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(64 65)" font-family="Arial,Helvetica,sans-serif">
+<text fill="#06b6d4" font-size="14" font-weight="700" letter-spacing="4">TECHNICAL ARSENAL</text>
+<text y="62" fill="#fff" font-size="38" font-weight="800">PYTHON • REACT • DJANGO • MSSQL</text>
+<rect y="96" width="300" height="3" rx="2" fill="url(#g)"><animate attributeName="width" values="120;340;220;300" dur="4s" repeatCount="indefinite"/></rect>
+</g></svg>
