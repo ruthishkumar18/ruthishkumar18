@@ -74,7 +74,7 @@ Frontend, backend, database and deployment workflows using React, Flask, Django 
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/build-industrial.svg" width="100%" alt="Industrial Software">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/build-industrial-v2.svg" width="100%" alt="Industrial Software">
 
 **PLC &amp; Real-Time Systems**
 
