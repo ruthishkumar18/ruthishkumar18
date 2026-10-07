@@ -170,21 +170,64 @@ Web-based leave request and approval workflow system developed during a Domestic
 
 ## Experience
 
-### Sieger Spintech Equipment Pvt Ltd
-**Full Stack Developer Intern · Coimbatore**  
-**June 3, 2026 – December 3, 2026**
+<div align="center">
 
-Working on a PLC-based industrial application involving **ReactJS, Python Django ORM and MSSQL**, with collaboration involving **Nikkika, Coimbatore and Indorama, Turkey**.
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-**Work includes:** application screens, feature development, issue resolution, real-time industrial software, deployment support, PLC-based systems, React frontend, theme switching and English/Turkish language support.
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/experience-sieger.svg" width="100%" alt="Sieger Spintech internship">
 
-### Previous Internships
+**Full Stack Developer Intern**
 
-| Role | Organization | Period |
-|---|---|---|
-| **App Development Intern** | Micro Infotech, Coimbatore | Dec 8, 2025 – Dec 23, 2025 |
-| **Web Development Intern** | Infotact Solutions, Tamil Nadu | May 25, 2025 – Aug 25, 2025 |
+**Sieger Spintech Equipment Pvt Ltd**
 
+Coimbatore  
+**Jun 3, 2026 – Dec 3, 2026**
+
+PLC-based industrial application using **ReactJS, Python Django ORM and MSSQL**.
+
+`ReactJS` `Django ORM` `MSSQL` `PLC`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/experience-micro.svg" width="100%" alt="Micro Infotech internship">
+
+**App Development Intern**
+
+**Micro Infotech**
+
+Coimbatore  
+**Dec 8, 2025 – Dec 23, 2025**
+
+Built an **Intelligent Quotation Creation and Management Application** for automated quotation generation.
+
+`UI` `Backend Logic` `Secure Data`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/experience-infotact.svg" width="100%" alt="Infotact Solutions internship">
+
+**Web Development Intern**
+
+**Infotact Solutions**
+
+Tamil Nadu  
+**May 25, 2025 – Aug 25, 2025**
+
+Developed an **artisan marketplace platform** supporting registration, product review, approval, browsing and purchasing workflows.
+
+`Web Development` `Marketplace` `Workflow`
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 <p align="center">
