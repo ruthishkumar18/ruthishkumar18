@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-label="AI / ML">
-<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
-<rect width="320" height="150" rx="20" fill="url(#b)"/>
-<g opacity=".12" stroke="#a78bfa"><path d="M0 120H320M0 90H320M0 60H320M0 30H320"/><path d="M35 0L0 150M115 0L80 150M195 0L160 150M275 0L240 150"/></g>
-<g transform="translate(243 75)"><circle r="34" fill="none" stroke="#a78bfa" stroke-width="3"/><circle r="9" fill="#a78bfa"><animate attributeName="r" values="6;13;6" dur="1.8s" repeatCount="indefinite"/></circle><path d="M-58 0H-20M20 0H58M0-58V-20M0 20V58" stroke="#67e8f9" stroke-width="3"/><circle cx="-60" cy="0" r="5" fill="#a78bfa"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="60" cy="0" r="5" fill="#a78bfa"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle></g>
-<text x="20" y="48" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800">AI / ML</text>
-<rect x="20" y="64" width="115" height="3" rx="2" fill="#a78bfa"><animate attributeName="width" values="55;145;85;115" dur="3.5s" repeatCount="indefinite"/></rect>
-<text x="20" y="96" fill="#64748b" font-family="monospace" font-size="10">BUILD • LEARN • APPLY</text>
-</svg>
