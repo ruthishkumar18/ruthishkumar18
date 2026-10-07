@@ -183,16 +183,20 @@ Working on a PLC-based industrial application involving **ReactJS, Python Django
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/leadership-panel.svg" width="100%" alt="Leadership and Recognition">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/leadership-3d.svg" width="100%" alt="Leadership and recognition">
 </p>
 
 <div align="center">
 
-| **LEADERSHIP** | **RECOGNITION** | **CREDENTIALS** |
-|:---:|:---:|:---:|
-| AI Vishwaguru<br><sub>Ambassador</sub> | GitSetGo<br><sub>3rd Place</sub> | Generative AI<br><sub>Hands-on Approach</sub> |
-| Association of Master's Tech<br><sub>Executive Member</sub> | NiCHE<br><sub>Runner-Up</sub> | TCS iON<br><sub>Career Edge</sub> |
-| UTSAVA 2026<br><sub>Event Coordinator</sub> | FOSS Club<br><sub>Contest</sub> | MongoDB University<br><sub>Skill Badges</sub> |
+`AI Vishwaguru • Ambassador` &nbsp;•&nbsp; `Association of Master's Tech • Executive Member` &nbsp;•&nbsp; `UTSAVA 2026 • Event Coordinator`
+
+<br>
+
+`GitSetGo • 3rd Place` &nbsp;•&nbsp; `NiCHE • Runner-Up`
+
+<br>
+
+`Generative AI` &nbsp;•&nbsp; `TCS iON Career Edge` &nbsp;•&nbsp; `MongoDB University` &nbsp;•&nbsp; `NPTEL`
 
 </div>
 
