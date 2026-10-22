@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">Ruthishkumar G. profile avatar</title>
-  <desc id="desc">A professional black and gold monogram avatar with RG initials.</desc>
+  <desc id="desc">A professional black and gold monogram avatar with RK initials.</desc>
   <defs>
     <radialGradient id="bg" cx="35%" cy="25%" r="85%">
       <stop offset="0" stop-color="#29251a"/>
@@ -28,8 +28,8 @@
     <circle cx="86" cy="256" r="4" fill="#f1d58a"/>
     <circle cx="426" cy="256" r="4" fill="#f1d58a"/>
   </g>
-  <text x="256" y="278" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="bold" letter-spacing="-12" fill="url(#gold)" filter="url(#glow)">RG</text>
+  <text x="256" y="278" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="bold" letter-spacing="-12" fill="url(#gold)" filter="url(#glow)">RK</text>
   <path d="M166 313h180" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
   <text x="256" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="5" fill="#f8edcc">RUTHISHKUMAR G.</text>
-  <text x="256" y="382" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#c9a95c">DEVELOPER · CREATOR</text>
+  <text x="256" y="382" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#c9a95c">AI & FULL STACK DEVELOPER</text>
 </svg>
