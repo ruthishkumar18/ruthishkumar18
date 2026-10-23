@@ -116,6 +116,29 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/sec-github-stats.svg" width="100%" alt="GitHub Live Stats">
+</p>
+
+<p align="center">
+<a href="https://github.com/ruthishkumar18">
+<img src="https://github-readme-stats.vercel.app/api?username=ruthishkumar18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0c1129&title_color=22d3ee&text_color=94a3b8&icon_color=8b5cf6" height="165" alt="GitHub Stats">
+</a>
+<a href="https://github.com/ruthishkumar18">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthishkumar18&layout=compact&hide_border=true&bg_color=0c1129&title_color=22d3ee&text_color=94a3b8" height="165" alt="Top Languages">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ruthishkumar18">
+<img src="https://streak-stats.demolab.com?user=ruthishkumar18&hide_border=true&background=0c1129&ring=22d3ee&fire=fb7185&currStreakLabel=22d3ee&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" height="165" alt="GitHub Contribution Streak">
+</a>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/divider.svg" width="100%" alt="">
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/ruthishkumar18/ruthishkumar18/main/assets/pro/sec-connect.svg" width="100%" alt="Connect">
 </p>
 
